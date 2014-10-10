@@ -5,7 +5,7 @@ and Software isolation mechanisms". We'd like to invite submissions of talks
 and presentations, from security researchers and interested representatives 
 of open source and free software. 
 
-The security devroom will be held the Sunday 1st of February 2015 in Brussels,
+The security devroom will be held the _Sunday 1st of February 2015_ in Brussels,
 Belgium.
 
 Description of our topic
