@@ -1,8 +1,8 @@
 # Security Devroom @ FOSDEM'15
 
-Next [FOSDEM](https://fosdem.org/2015/) will, again, have a security devroom, this time on the topic of _"Hardware and Software isolation mechanisms"_. We'd like to invite submissions of talks and presentations from developers, security researchers and other interested representatives of open source and free software projects.
+Next [FOSDEM](https://fosdem.org/2015/) will, again, have a security devroom, this time on the topic of _"Hardware and Software isolation mechanisms"_. We'd like to invite submissions of talks and presentations from developers, security researchers and other interested representatives of open source and free software and hardware projects.
 
-The security devroom will be held on **Sunday 1st of February 2015** in Brussels, Belgium, room S.AW1.120 from 09:00 to 17:00
+The security devroom will be held on **Sunday 1st of February 2015** in Brussels, Belgium at [ULB](http://www.ulb.ac.be/) room S.AW1.120 **from 09:00 to 17:00**.
 
 ## Our topic this year
 
@@ -16,15 +16,15 @@ mitigate such attacks, are again on the line, and the main theme of this devroom
 
 ## Submissions
 
-Submissions require a small abstract and short speaker description
-and must be submitted via the [Pentabarf](https://penta.fosdem.org) system before December 10, 2014. You can apply for a 25 min (20 min presentation + 5 mins questions) slot.
+Submissions require a small abstract and a short speaker description and must be submitted via the [Pentabarf](https://penta.fosdem.org) system **no later than Sunday, December 7, 2014**. Suggested duration for a timeslot to apply for is 25 minutes (20 min presentation + 5 mins questions). The shcedule shall be finalized by Mondary, December 15, 2014.
 
 Instructions:
 
-  * Go to https://penta.fosdem.org/submission/FOSDEM15
-  * If you don't have an account from previous years, register
-  * Create a new event with your title and abstract
-  * ** Be sure to set the event track to "Security devroom"**
+  - Go to https://penta.fosdem.org/submission/FOSDEM15
+  - If you don't have an account from previous years, register
+  - Create a new event with your title and abstract
+  - *** Be sure to set the event track to "Security devroom" ***
+
 
 
 ### Organizers & contact
