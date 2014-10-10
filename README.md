@@ -23,7 +23,7 @@ Instructions:
   - Go to https://penta.fosdem.org/submission/FOSDEM15
   - If you don't have an account from previous years, register
   - Create a new event with your title and abstract
-  - *** Be sure to set the event track to "Security devroom" ***
+  - __Be sure to set the event track to "Security devroom"__
 
 
 
