@@ -16,7 +16,7 @@ mitigate such attacks, are again on the line, and the main theme of this devroom
 
 ## Submissions
 
-Submissions require a small abstract and a short speaker description and must be submitted via the [Pentabarf](https://penta.fosdem.org) system **no later than Sunday, December 7, 2014**. Suggested duration for a timeslot to apply for is 25 minutes (20 min presentation + 5 mins questions). The shcedule shall be finalized by Mondary, December 15, 2014.
+Submissions require a small abstract and a short speaker description and must be submitted via the [Pentabarf](https://penta.fosdem.org) system **no later than Sunday, December 7, 2014**. Suggested duration for a timeslot to apply for is 25 minutes (20 min presentation + 5 mins questions). The schedule shall be finalized by Mondary, December 15, 2014.
 
 Instructions:
 
