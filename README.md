@@ -27,7 +27,7 @@ Schedule:
   * Nikos Mavrogiannopoulos (nmav@redhat.com)
   * Martin Paljak (martin@martinpaljak.net)
   * You! - any help with organizing is highly appreciated!
-  * SOON: Join [security-devroom@lists.fosdem.org](https://lists.fosdem.org/listinfo/security-devroom-not-yet-available) mailing list for further communication
+  * SOON: Join [security-devroom@lists.fosdem.org](https://lists.fosdem.org/listinfo/security-devroom) mailing list for further communication
 
 ### TODO
   * List of things to do before/during the event [etherpad](https://piratenpad.de/f7bOkTtAa2)
