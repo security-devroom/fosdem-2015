@@ -14,16 +14,11 @@ _heartbleed_ required the revocation of the private keys of a large part of the
 Internet. For that reason Hardware and Software isolation mechanisms that could
 mitigate such attacks, are again on the line, and the main theme of this devroom. 
 
-## Submissions
+## Schedule
 
-Submissions require a small abstract and a short speaker description and must be submitted via the [Pentabarf](https://penta.fosdem.org) system **no later than Sunday, December 7, 2014**. Suggested duration for a timeslot to apply for is 25 minutes (20 min presentation + 5 mins questions). The schedule shall be finalized by Mondary, December 15, 2014.
+Schedule:
 
-Instructions:
-
-  - Go to https://penta.fosdem.org/submission/FOSDEM15
-  - If you don't have an account from previous years, register
-  - Create a new event with your title and abstract and some information about you
-  - __Be sure to set the event track to "Security devroom"__
+  - Go to https://fosdem.org/2015/schedule/track/security_devroom/
 
 
 
