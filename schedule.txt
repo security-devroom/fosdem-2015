@@ -15,7 +15,7 @@ Architectural descriptions:
 
 Web security:
 * 13.00: Applying Hybrid Cryptography to Restful Systems
-* 13.30: (empty slot)
+* 13.30: NetAidKit: Usable Privacy and Anonymity for Journalists
 * 14.00: Web Security - WebCrypto and CSP (40+5)
 
 General security:
