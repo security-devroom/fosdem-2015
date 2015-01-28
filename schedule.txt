@@ -3,25 +3,39 @@ https://fosdem.org/2015/schedule/track/security_devroom/
 
 Main topic:
 * 09:00: Software isolation issues
+         Nikos Mavrogiannopoulos
 * 09.30: PixelVault
-* 10.00: Thou shalt not leak your keys: Practical key privilege
-separation using Caml Crush
+         Giorgos Vasiliadis
+* 10.00: Thou shalt not leak your keys: Practical key privilege separation using Caml Crush
+         Thomas Calderon
 * 10.30: Universal 2nd Factor Authentication (40+5)
+         Simon Josefsson
 * 11.15: Quickstart JavaCard development. (40+5)
+         Martin Paljak
 
 Architectural descriptions:
 * 12.00: Genode - OS security by design
+         Norman Feske
 * 12.30: Mandos - Disk encryption without passwords
+         Teddy Hogeborn
 
 Web security:
 * 13.00: Applying Hybrid Cryptography to Restful Systems
+         Romek Szczesniak
 * 13.30: NetAidKit: Usable Privacy and Anonymity for Journalists
+         Melanie Rieback
 * 14.00: Web Security - WebCrypto and CSP (40+5)
+         Habib Virji
 
 General security:
 * 14.45: The Fuzzing Project
+         Hanno Böck
 * 15.15: Two decades later - Signing OpenPGP keys in the 2000s
+         Tobias Mueller
 
 Mobile security:
 * 15.45: BIFUZ - android fuzzying
+         Razvan-Costin Ionescu, Andreea Brindusa Proca
 * 16.15: Security enforcement by privilege aware launcher
+         José Bollo
+
