@@ -22,7 +22,8 @@ Schedule:
 
 ## Presentations
 
-See [presentations](./presentations) folder
+* See [presentations](./presentations) folder
+* And [videos](https://video.fosdem.org/2015/devroom-security_devroom/)
 
 ### Organizers & contact
 
